@@ -1,4 +1,12 @@
-### Hi there 👋
+###                                                               Hi 👋 I'm Edwin C Anto
+                                                           Full Stackdevloper from India, Kerala.
+
+- 🔭 I’m currently working on: -Nothing
+- 🌱 I’m currently learning: - C & Javascript
+- 📫 How to reach me: -edwincanto16@gmail.com
+- 💬 Ask me about: -CSS
+
+
 
 <!--
 **Eduzzz03/Eduzzz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
