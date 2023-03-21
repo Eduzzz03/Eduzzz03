@@ -1,4 +1,4 @@
-###                                                               Hi 👋 I'm Edwin C Anto
+                                                                  Hi 👋 I'm Edwin C Anto
                                                            Full Stackdevloper from India, Kerala.
 
 - 🔭 I’m currently working on: -Nothing
