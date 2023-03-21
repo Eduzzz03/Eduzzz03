@@ -1,5 +1,5 @@
-     ###                                                             Hi 👋 I'm Edwin C Anto
-                                                              Full Stackdevloper from India, Kerala.
+###                                                             Hi 👋 I'm Edwin C Anto
+                                                         Full Stackdevloper from India, Kerala.
 
 - 🔭 I’m currently working on: -Nothing
 - 🌱 I’m currently learning: - C & Javascript
