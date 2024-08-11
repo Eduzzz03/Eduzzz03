@@ -2,13 +2,13 @@
 
 <h3 align="center"> A passionate frontend developer from Thrissur, Kerala, India </h3>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **java**
 -  
 ## Tech Stack
 <div align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,git,github,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,git,github,nodejs,java,python" />
   </a>
 
 </div>
