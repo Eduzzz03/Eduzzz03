@@ -2,9 +2,9 @@
 
 <h3 align="center"> A passionate frontend developer from Thrissur, Kerala, India </h3>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **javascript**
 -     Beginner in MERN Stack 
--  
+-     Aspiring Data Scientist
 ## Tech Stack
 <div align="center">
   <p align="center">
