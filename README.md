@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edwin </h1>
 
-<h3 align="center"> A passionate frontend developer from Thrissur, Kerala, India </h3>
+<h3 align="center"> A Passionate FullStack Developer from Thrissur, Kerala, India </h3>
 
 - 🌱 I’m currently learning **javascript**
 -     Beginner in MERN Stack 
